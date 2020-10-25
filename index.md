@@ -30,6 +30,15 @@ Combinatorial optimization and scheduling of manufacturing systems.
 <li>Birgin E.G., Romao O.C. & Ronconi D.P., 2020. "The multiperiod two-dimensional non-guillotine cutting stock problem with usable leftovers", <i>International Transactions in Operational Research</i>, 27, pp. 1392-1418.
 <a href="https://doi.org/10.1111/itor.12648">[DOI: 10.1111/itor.12648]</a></li>
 
+<li>Hortencio H.P. & Ronconi D.P., 2020, "Mixed Integer Linear Programming Models for Scheduling Elective Surgical Procedures", <i>Lecture Notes in Computer Science</i>, 12251, pp. 632-647.
+<a href="https://doi.org/10.1007/978-3-030-58808-3_46">[DOI: 10.1007/978-3-030-58808-3_46]</a></li>
+
+<li>Bassi S. & Ronconi D.P., 2020, "Optimization of the Use of Critical Resources in the Development of Offshore Oil Fields", <i>Lecture Notes in Computer Science</i>, 12249, pp. 391-405.
+<a href="https://doi.org/10.1007/978-3-030-58799-4_29">[DOI: 10.1007/978-3-030-58799-4_29]</a></li>
+
+<li> Manguino J.L.V. & Ronconi D.P., 2020, "Metaheuristic Approaches for the Fleet Size and Mix Vehicle Routing Problem with Time Windows and Step Cost Functions", <i>Lecture Notes in Computer Science</i>, 12433, pp. 231-245.
+<a href="https://doi.org/10.1007/978-3-030-59747-4_15">[DOI: 10.1007/978-3-030-59747-4_15]</a></li>
+  
 <li>Damm R.B., Resende M.G.C. & Ronconi D.P., 2016, “A Biased Random Key Genetic Algorithm for the Field Technician Scheduling Problem”, <i>Computers & Operations Research</i>, 75, pp. 49-63. 
   <a href="https://doi.org/10.1016/j.cor.2016.05.003">[DOI: 10.1016/j.cor.2016.05.003]</a>
   <a href="InstResul.zip">[Additional material]</a></li>
