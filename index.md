@@ -22,16 +22,21 @@ Combinatorial optimization and scheduling of manufacturing systems.
 <ul>
   
 <li>Damm R.B., Resende M.G.C. & Ronconi D.P., 2016, “A Biased Random Key Genetic Algorithm for the Field Technician Scheduling Problem”, <i>Computers & Operations Research</i>, 75, pp. 49-63. 
-  <a href="https://doi.org">[DOI: 10.1016/j.cor.2016.05.003]</a>
+  <a href="https://doi.org/10.1016/j.cor.2016.05.003">[DOI: 10.1016/j.cor.2016.05.003]</a>
   <a href="">[Additional material]</a></li>
 
-<li>Morales S.G. & Ronconi D.P., 2016, “Mathematical models and resolution strategies for the classical job shop problem”, <i>Production</i>, 26, pp. 614-625.</li>
+<li>Morales S.G. & Ronconi D.P., 2016, “Mathematical models and resolution strategies for the classical job shop problem”, <i>Production</i>, 26, pp. 614-625.
+  <a href="https://doi.org/10.1590/0103-6513.058512">[DOI: 10.1590/0103-6513.058512]</a></li>
 
-<li>Lemos R.F. & Ronconi D.P., 2015, “Heuristics for the stochastic single-machine problem with E/T costs”, <i>International Journal of Production Economics</i>, 168, pp. 131-142. [Prob/Resul]</li>
+<li>Lemos R.F. & Ronconi D.P., 2015, “Heuristics for the stochastic single-machine problem with E/T costs”, <i>International Journal of Production Economics</i>, 168, pp. 131-142. 
+  <a href="https://doi.org/10.1016/j.ijpe.2015.06.014">[DOI: 10.1016/j.ijpe.2015.06.014]</a>
+  <a href="">[Additional material]</a></li>
 
-<li>Birgin E.G., Ferreira, J.E. & Ronconi D.P., 2015, “List scheduling and beam search methods for the flexible job shop scheduling problem with sequencing flexibility”, <i>European Journal of Operational Research</i>, 247, pp. 421-440.</li>
+<li>Birgin E.G., Ferreira, J.E. & Ronconi D.P., 2015, “List scheduling and beam search methods for the flexible job shop scheduling problem with sequencing flexibility”, <i>European Journal of Operational Research</i>, 247, pp. 421-440.
+<a href="https://doi.org/10.1016/j.ejor.2015.06.023">[DOI: 10.1016/j.ejor.2015.06.023]</a></li>
 
-<li>Melo E. & Ronconi D.P., 2015, “Regras de prioridade eficientes que exploram características do job shop flexível para a minimização do atraso total”, <i>Revista Produção</i>, 25, pp. 79-91.</li>
+<li>Melo E. & Ronconi D.P., 2015, “Regras de prioridade eficientes que exploram características do job shop flexível para a minimização do atraso total”, <i>Revista Produção</i>, 25, pp. 79-91.
+<a href="http://dx.doi.org/10.1590/S0103-65132014005000016">[DOI: 10.1590/S0103-65132014005000016]</a></li>
 
 <li>Sakuraba C.S., Ronconi D.P., Birgin E.G. & Yagiura M., 2015, “Metaheuristics for large-scale instances of the linear ordering problem”, <i>Expert Systems with Applications</i>, 42, pp. 4432-4442.</li>
 
