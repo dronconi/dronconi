@@ -80,17 +80,22 @@ Combinatorial optimization and scheduling of manufacturing systems.
 
 <li>Hino, C.M., Ronconi, D.P. & Mendes, A.B., 2005, "Minimizing Earliness and Tardiness Penalties in a Single-Machine Problem with a Common Due Date", <i>European Journal of Operational Research</i>, 160, pp. 190-201.</li>
 
-<li>Birgin, E.G., Martínez, J.M. & Ronconi, D.P., 2005, "Optimizing the Packing of Cylinders into a Rectangular Container: A Nonlinear Approach", <i>European Journal of Operational Research</i>, 160, pp. 19-33.</li>
+<li>Birgin, E.G., Martínez, J.M. & Ronconi, D.P., 2005, "Optimizing the Packing of Cylinders into a Rectangular Container: A Nonlinear Approach", <i>European Journal of Operational Research</i>, 160, pp. 19-33.
+<a href="https://doi.org/10.1016/j.ejor.2003.06.018">[DOI: 10.1016/j.ejor.2003.06.018]</a></li>
 
-<li>Furlan, C.F. & Ronconi, D.P., 2005, Programação de Ordens de Produção com Diferentes Instantes de Liberação para uma Data Única de Entrega, <i>GEPROS – Gestão da Produção e Sistemas</i>, 1, pp. 19-28.</li>
+<li>Furlan, C.F. & Ronconi, D.P., 2005, "Programação de Ordens de Produção com Diferentes Instantes de Liberação para uma Data Única de Entrega", <i>GEPROS – Gestão da Produção e Sistemas</i>, 1, pp. 19-28.</li>
 
-<li>Ronconi, D.P., 2004, "A Note on Constructive Heuristics for the Flowshop Problem with Blocking In-Process", <i>International Journal of Production Economics</i>, 87(1), pp. 39-48.</li>
+<li>Ronconi, D.P., 2004, "A Note on Constructive Heuristics for the Flowshop Problem with Blocking In-Process", <i>International Journal of Production Economics</i>, 87(1), pp. 39-48.
+<a href="https://doi.org/10.1016/S0925-5273(03)00065-3">[DOI: 10.1016/S0925-5273(03)00065-3]</a></li>
 
-<li>Birgin, E.G., Martínez, J.M. & Ronconi, D.P., 2003, "Minimization Subproblems and Heuristics for a Robust Applied  Clustering Problem", <i>European Journal of Operational Research</i>, 146, pp. 19-34.</li>
+<li>Birgin, E.G., Martínez, J.M. & Ronconi, D.P., 2003, "Minimization Subproblems and Heuristics for a Robust Applied Clustering Problem", <i>European Journal of Operational Research</i>, 146, pp. 19-34.
+<a href="https://doi.org/10.1016/S0377-2217(02)00208-4">[DOI: 10.1016/S0377-2217(02)00208-4]</a></li>
 
-<li>Kiyuzato L., Ronconi D.P., Salamoni R., Tsai C.K. & Yoshizaki H., 2002, "Minimizing Total Tardiness: A Case Study in an Autoparts Factory", <i>International Transactions in Operational Research</i>, 9, pp. 371-379.</li>
+<li>Kiyuzato L., Ronconi D.P., Salamoni R., Tsai C.K. & Yoshizaki H., 2002, "Minimizing Total Tardiness: A Case Study in an Autoparts Factory", <i>International Transactions in Operational Research</i>, 9, pp. 371-379.
+<a href="https://doi.org/10.1111/1475-3995.00361">[DOI: 10.1111/1475-3995.00361]</a></li>
 
-<li>Ronconi, D.P. & Armentano, V.A., 2001, "Lower Bounding Schemes for Flowshops with Blocking In-Process", <i>Journal of the Operational Research Society</i>, 52 (11), pp. 1289-1297.</li>
+<li>Ronconi, D.P. & Armentano, V.A., 2001, "Lower Bounding Schemes for Flowshops with Blocking In-Process", <i>Journal of the Operational Research Society</i>, 52 (11), pp. 1289-1297.
+<a href="https://doi.org/10.1057/palgrave.jors.2601220">[DOI: 10.1057/palgrave.jors.2601220]</a></li>
 
 <li>Armentano, V.A. & Ronconi, D.P., 2000, "Minimização do Tempo Total de Atraso no Problema de Flowshop com Buffer Zero Utilizando Busca Tabu", <i>Gestão & Produção</i>,7 (3), pp. 353-363.
 <a href="https://doi.org/10.1590/S0104-530X2000000300011">[DOI: 10.1590/S0104-530X2000000300011]</a> </li>
@@ -101,6 +106,7 @@ Combinatorial optimization and scheduling of manufacturing systems.
 <li>Ronconi, D.P. & Armentano, V.A., 1995 (published in 1997), "Busca Tabu para a Minimização do Tempo Total de Atraso no Problema de Flowshop", <i>Pesquisa Operacional</i>, 15, pp. 23-34.</li>
 
 <li>Ronconi, D.P. & Armentano, V.A., 1993, "Um Método Heurístico Baseado em Grafos para Formação de Células de Manufatura", <i>Caderno de Engenharia de Produção - DEP</i>, 21,  pp. 24-48.</li>
+
 </ul>
 
 ### Contact
