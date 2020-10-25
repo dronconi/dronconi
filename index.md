@@ -70,32 +70,44 @@ Combinatorial optimization and scheduling of manufacturing systems.
   <a href="">[Additional material]</a></li>
   
 <li>Birgin E.G. & Ronconi D.P., 2012, "Heuristic Methods for the Single Machine Scheduling Problem with Different Ready Times and a Common Due Date", <i>Engineering Optimization</i>, 44, pp. 1197-1208.
+<a href="https://doi.org/10.1080/0305215X.2011.634409">[DOI: 10.1080/0305215X.2011.634409]</a></li>
 
-<li>Santoro, M.C. & Ronconi D.P., 2011, “Modeling the Transportation and Warehousing of Potassium Chloride in the Fertilizer Industry”, <i>International Journal of Logistics Systems and Management</i>, 8, pp. 298-312.</li>
+<li>Santoro, M.C. & Ronconi D.P., 2011, “Modeling the Transportation and Warehousing of Potassium Chloride in the Fertilizer Industry”, <i>International Journal of Logistics Systems and Management</i>, 8, pp. 298-312.
+<a href=“https://doi.org/10.1504/IJLSM.2011.038989“>[DOI: 10.1504/IJLSM.2011.038989]</a></li>
 
 <li>Ronconi D.P. & Powell W.B., 2010, "Minimizing Total Tardiness in a Stochastic Single Machine Scheduling Problem using Approximate Dynamic Programming", <i>Journal of Scheduling</i>, 13, pp. 597-607.
+  <a href="https://doi.org/10.1007/s10951-009-0160-6">[DOI: 10.1007/s10951-009-0160-6]</a>
   <a href="">[Additional material]</a></li>
   
-<li>Mainieri, G. & Ronconi D.P., 2010, “Regras de Despacho para a Minimização do Atraso Total no Ambiente Flowshop Flexível ”, <i>Gestão & Produção</i>, 17, pp. 683-692.</li>
+<li>Mainieri, G. & Ronconi D.P., 2010, “Regras de Despacho para a Minimização do Atraso Total no Ambiente Flowshop Flexível”, <i>Gestão & Produção</i>, 17, pp. 683-692.
+<a href="https://doi.org/10.1590/S0104-530X2010000400004">[DOI: 10.1590/S0104-530X2010000400004]</a></li>
 
 <li>Ronconi D.P. & Kawamura M.S., 2010, "The Single Machine Earliness and Tardiness Scheduling Problem: Lower Bounds and a Branch-and-Bound Algorithm", <i>Computational & Applied Mathematics</i>, 29, pp. 107-124.
+  <a href="https://doi.org/10.1590/S1807-03022010000200002">[DOI: 10.1590/S1807-03022010000200002]</a>
   <a href="">[Additional material]</a></li>
 
 <li>Ronconi D.P. & Henriques L.S., 2009, “Some Heuristic Algorithms for Total Tardiness Minimization in a Flowshop with Blocking”, <i>Omega</i>, 37, pp. 272-281.
+  <a href="https://doi.org/10.1016/j.omega.2007.01.003">[DOI: 10.1016/j.omega.2007.01.003]</a>
   <a href="">[Additional material]</a></li>
 
 <li>Sakuraba C.S., Ronconi D.P. & Sourd F., 2009, "Scheduling in a Two-Machine Flowshop for the Minimization of the Mean Absolute Deviation from a Common Due Date", <i>Computers & Operations Research</i>, 36, pp. 60-72.
+  <a href="https://doi.org/10.1016/j.cor.2007.07.005">[DOI: 10.1016/j.cor.2007.07.005]</a>
   <a href="">[Additional material]</a></li>
 
-<li>Birgin, E.G., Martínez, J.M., Nishihara F.H. & Ronconi, D.P., 2006, "Orthogonal Packing of Rectangular Items within Arbitrary Convex Regions by Nonlinear Optimization", <i>Computers & Operations Research</i>, 33, pp. 3535-3548.</li>
+<li>Birgin, E.G., Martínez, J.M., Nishihara F.H. & Ronconi, D.P., 2006, "Orthogonal Packing of Rectangular Items within Arbitrary Convex Regions by Nonlinear Optimization", <i>Computers & Operations Research</i>, 33, pp. 3535-3548.
+<a href="https://doi.org/10.1016/j.cor.2005.03.031">[DOI: 10.1016/j.cor.2005.03.031]</a></li>
 
-<li>Kawamura, M.S., Ronconi D.P. & Yoshizaki H., 2006, "Optimizing Transportation and Storage of Final Products in the Sugar and Ethanol Industry: a case study", <i>International Transactions in Operational Research</i>, 13, pp. 425-439.</li>
+<li>Kawamura, M.S., Ronconi D.P. & Yoshizaki H., 2006, "Optimizing Transportation and Storage of Final Products in the Sugar and Ethanol Industry: a case study", <i>International Transactions in Operational Research</i>, 13, pp. 425-439.
+<a href="https://doi.org/10.1111/j.1475-3995.2006.00556.x">[DOI: 10.1111/j.1475-3995.2006.00556.x]</a></li>
 
-<li>Birgin E.G., Martínez J.M. , MascarenhasW.F. & Ronconi D.P., 2006, "Method of Sentinels for Packing Objects whitin Arbitrary Regions", <i>Journal of the Operational Research Society</i>, 57, pp. 735-746.</li>
+<li>Birgin E.G., Martínez J.M. , MascarenhasW.F. & Ronconi D.P., 2006, "Method of Sentinels for Packing Objects whitin Arbitrary Regions", <i>Journal of the Operational Research Society</i>, 57, pp. 735-746.
+<a href="https://doi.org/10.1057/palgrave.jors.2602067">[DOI: 10.1057/palgrave.jors.2602067]</a></li>
 
-<li>Ronconi, D.P., 2005, "A Branch-and-Bound Algorithm to Minimize the Makespan in a Flowshop with Blocking", 2005, <i>Annals of Operations Research</i>, 138(1), pp. 53-65.</li>
+<li>Ronconi, D.P., 2005, "A Branch-and-Bound Algorithm to Minimize the Makespan in a Flowshop with Blocking", 2005, <i>Annals of Operations Research</i>, 138(1), pp. 53-65.
+<a href="https://doi.org/10.1007/s10479-005-2444-3">[DOI: 10.1007/s10479-005-2444-3]</a></li>
 
-<li>Hino, C.M., Ronconi, D.P. & Mendes, A.B., 2005, "Minimizing Earliness and Tardiness Penalties in a Single-Machine Problem with a Common Due Date", <i>European Journal of Operational Research</i>, 160, pp. 190-201.</li>
+<li>Hino, C.M., Ronconi, D.P. & Mendes, A.B., 2005, "Minimizing Earliness and Tardiness Penalties in a Single-Machine Problem with a Common Due Date", <i>European Journal of Operational Research</i>, 160, pp. 190-201.
+<a href="https://doi.org/10.1016/j.ejor.2004.03.006">[DOI: 10.1016/j.ejor.2004.03.006]</a></li>
 
 <li>Birgin, E.G., Martínez, J.M. & Ronconi, D.P., 2005, "Optimizing the Packing of Cylinders into a Rectangular Container: A Nonlinear Approach", <i>European Journal of Operational Research</i>, 160, pp. 19-33.
 <a href="https://doi.org/10.1016/j.ejor.2003.06.018">[DOI: 10.1016/j.ejor.2003.06.018]</a></li>
