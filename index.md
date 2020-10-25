@@ -6,20 +6,17 @@
     <td>Débora P. Ronconi<br> 
         Full Professor<br> 
         Department of Production Engineering<br>
-        Polytechnic School, University of São Paulo<br>
+        Polytechnic School, University of São Paulo<br><br>
+        <a href="https://orcid.org/0000-0001-7647-2328">ORCID ID</a><br>
+        <a href="https://scholar.google.com.br/citations?user=PYRW_-4AAAAJ&hl=en">Google Scholar Citation Profile</a><br>
+        <a href="https://publons.com/researcher/2330687/debora-p-ronconi/">ReseracherID</a><br>
+        <a href="https://www.scopus.com/authid/detail.uri?authorId=6507620724">ScopusID</a><br>
+        <a href="http://lattes.cnpq.br/8061079976642641"><img src="fav_ico_lattes.ico.png"</img></a>
     </td> 
   </tr>
  </table>
 
 Prof. Ronconi holds Electrical Engineering degree (Faculty of Electrical Engineering, Federal University of Espírito Santo, Vitória - ES, Brazil, 1990). She is a M.Sc. and Ph.D. in Operational Research from the Department of System Engineering, Electrical and Computer Engineering School, State University of Campinas - UNICAMP (Brazil, 1993 and 1997). Post-Doctorate at Department of Operations Research & Financial Engineering, Princeton University (2006). Currently, she is a full professor at the Department of Production Engineering, Politecnical School, University of São Paulo (USP), Brazil. Her research interests include combinatorial optimization and scheduling of manufacturing systems. 
-
-<i class="fab fa-2x fa-orcid"></i>
-<a href="https://orcid.org/0000-0001-7647-2328">ORCID ID</a>
-<a href="https://scholar.google.com.br/citations?user=PYRW_-4AAAAJ&hl=en">Google Scholar Citation Profile</a>
-<a href="https://publons.com/researcher/2330687/debora-p-ronconi/">ReseracherID</a>
-<a href="https://www.scopus.com/authid/detail.uri?authorId=6507620724">ScopusID</a>
-<a href="http://lattes.cnpq.br/8061079976642641"><img src="fav_ico_lattes.ico.png"</img></a>
-
 
 ### Main interests
 
