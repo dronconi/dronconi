@@ -1,6 +1,6 @@
 ## Débora P. Ronconi web page
 
-<table>
+<table style="width:20cm">
   <tr>
     <td><img src="photo.jpg"</img></td>
     <td>Débora P. Ronconi<br> 
