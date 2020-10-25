@@ -47,19 +47,19 @@ Combinatorial optimization and scheduling of manufacturing systems.
 <li>Bassi S. & Ronconi D.P., 2020, "Optimization of the Use of Critical Resources in the Development of Offshore Oil Fields", <i>Lecture Notes in Computer Science</i>, 12249, pp. 391-405.
 <a href="https://doi.org/10.1007/978-3-030-58799-4_29">[DOI: 10.1007/978-3-030-58799-4_29]</a></li>
 
-<li> Manguino J.L.V. & Ronconi D.P., 2020, "Metaheuristic Approaches for the Fleet Size and Mix Vehicle Routing Problem with Time Windows and Step Cost Functions", <i>Lecture Notes in Computer Science</i>, 12433, pp. 231-245.
+<li>Manguino J.L.V. & Ronconi D.P., 2020, "Metaheuristic Approaches for the Fleet Size and Mix Vehicle Routing Problem with Time Windows and Step Cost Functions", <i>Lecture Notes in Computer Science</i>, 12433, pp. 231-245.
 <a href="https://doi.org/10.1007/978-3-030-59747-4_15">[DOI: 10.1007/978-3-030-59747-4_15]</a></li>
   
 <li>Damm R.B., Resende M.G.C. & Ronconi D.P., 2016, “A Biased Random Key Genetic Algorithm for the Field Technician Scheduling Problem”, <i>Computers & Operations Research</i>, 75, pp. 49-63. 
   <a href="https://doi.org/10.1016/j.cor.2016.05.003">[DOI: 10.1016/j.cor.2016.05.003]</a>
-  <a href="InstResul.zip">[Additional material]</a></li>
+  <a href="AdditionalMaterial/InstResul.zip">[Additional material]</a></li>
 
 <li>Morales S.G. & Ronconi D.P., 2016, “Mathematical models and resolution strategies for the classical job shop problem”, <i>Production</i>, 26, pp. 614-625.
   <a href="https://doi.org/10.1590/0103-6513.058512">[DOI: 10.1590/0103-6513.058512]</a></li>
 
 <li>Lemos R.F. & Ronconi D.P., 2015, “Heuristics for the stochastic single-machine problem with E/T costs”, <i>International Journal of Production Economics</i>, 168, pp. 131-142. 
   <a href="https://doi.org/10.1016/j.ijpe.2015.06.014">[DOI: 10.1016/j.ijpe.2015.06.014]</a>
-  <a href="">[Additional material]</a></li>
+  <a href="AdditionalMaterial/Data.zip">[Additional material]</a></li>
 
 <li>Birgin E.G., Ferreira, J.E. & Ronconi D.P., 2015, “List scheduling and beam search methods for the flexible job shop scheduling problem with sequencing flexibility”, <i>European Journal of Operational Research</i>, 247, pp. 421-440.
 <a href="https://doi.org/10.1016/j.ejor.2015.06.023">[DOI: 10.1016/j.ejor.2015.06.023]</a></li>
@@ -75,20 +75,20 @@ Combinatorial optimization and scheduling of manufacturing systems.
 
 <li>Birgin E.G., Feofiloff P., Fernandes C.G., Melo E.L., Oshiro M.T.I. & Ronconi D.P., 2014, “A MILP model for an extended version of the Flexible Job Shop Problem”, <i>Optimization Letters</i>, 8, pp. 1417-1431.
 <a href="https://doi.org/10.1007/s11590-013-0669-7">[DOI: 10.1007/s11590-013-0669-7]</a>
-  <a href="">[Additional material]</a></li>
+  <a href="http://www.ime.usp.br/~cris/fjs/">[Additional material]</a></li>
 
 <li>Mainieri, G. & Ronconi D.P., 2013, “New Heuristics for Total Tardiness Minimization in a Flexible Flowshop”, <i>Optimization Letters</i>, 7, pp. 665-684.
 <a href="https://doi.org/10.1007/s11590-012-0448-x">[DOI: 10.1007/s11590-012-0448-x]</a>
   <a href="https://rdcu.be/b89qD">[Free access provided by SharedIt]</a>
-  <a href="">[Additional material]</a></li>
+  <a href="AdditionalMaterial/Instances.zip">[Additional material]</a></li>
 
 <li>Ronconi D.P. & Birgin E.G., 2012, "Mixed-Integer Programming Models for Flowshop Scheduling Problems Minimizing the Total Earliness and Tardiness", in <i>Just-in-Time Systems</i>, Y.A. Ríos-Solís and R.Z. Ríos-Mercado (Eds.), Springer Series on Optimization and Its Applications, P.M. Pardalos and Ding-Zhu Du (Series eds.).
 <a href="https://doi.org/10.1007/978-1-4614-1123-9_5">[DOI: 10.1007/978-1-4614-1123-9_5]</a>
-  <a href="">[Additional material]</a></li>
+  <a href="http://www.ime.usp.br/~egbirgin/sources/rob/">[Additional material]</a></li>
 
 <li>Birgin E.G. & Ronconi D.P., 2012, "Heuristic Methods for the Single Machine Scheduling Problem with Different Ready Times and a Common Due Date", <i>Engineering Optimization</i>, 44, pp. 1197-1208.
   <a href="https://doi.org/10.1080/0305215X.2011.634409">[DOI: 10.1080/0305215X.2011.634409]</a>
-  <a href="">[Additional material]</a></li>
+  <a href="http://www.ime.usp.br/~egbirgin/sources/bro/">[Additional material]</a></li>
   
 <li>Birgin E.G. & Ronconi D.P., 2012, "Heuristic Methods for the Single Machine Scheduling Problem with Different Ready Times and a Common Due Date", <i>Engineering Optimization</i>, 44, pp. 1197-1208.
 <a href="https://doi.org/10.1080/0305215X.2011.634409">[DOI: 10.1080/0305215X.2011.634409]</a></li>
@@ -99,18 +99,18 @@ Combinatorial optimization and scheduling of manufacturing systems.
 <li>Ronconi D.P. & Powell W.B., 2010, "Minimizing Total Tardiness in a Stochastic Single Machine Scheduling Problem using Approximate Dynamic Programming", <i>Journal of Scheduling</i>, 13, pp. 597-607.
   <a href="https://doi.org/10.1007/s10951-009-0160-6">[DOI: 10.1007/s10951-009-0160-6]</a>
   <a href="https://rdcu.be/b89qA">[Free access provided by SharedIt]</a>
-  <a href="">[Additional material]</a></li>
+  <a href="AdditionalMaterial/arrival.txt">[Additional material]</a></li>
   
 <li>Mainieri, G. & Ronconi D.P., 2010, “Regras de Despacho para a Minimização do Atraso Total no Ambiente Flowshop Flexível”, <i>Gestão & Produção</i>, 17, pp. 683-692.
 <a href="https://doi.org/10.1590/S0104-530X2010000400004">[DOI: 10.1590/S0104-530X2010000400004]</a></li>
 
 <li>Ronconi D.P. & Kawamura M.S., 2010, "The Single Machine Earliness and Tardiness Scheduling Problem: Lower Bounds and a Branch-and-Bound Algorithm", <i>Computational & Applied Mathematics</i>, 29, pp. 107-124.
   <a href="https://doi.org/10.1590/S1807-03022010000200002">[DOI: 10.1590/S1807-03022010000200002]</a>
-  <a href="">[Additional material]</a></li>
+  <a href="AdditionalMaterial/roka2010/">[Additional material]</a></li>
 
 <li>Ronconi D.P. & Henriques L.S., 2009, “Some Heuristic Algorithms for Total Tardiness Minimization in a Flowshop with Blocking”, <i>Omega</i>, 37, pp. 272-281.
   <a href="https://doi.org/10.1016/j.omega.2007.01.003">[DOI: 10.1016/j.omega.2007.01.003]</a>
-  <a href="">[Additional material]</a></li>
+  <a href="AdditionalMaterial/rohe2009/">[Additional material]</a></li>
 
 <li>Sakuraba C.S., Ronconi D.P. & Sourd F., 2009, "Scheduling in a Two-Machine Flowshop for the Minimization of the Mean Absolute Deviation from a Common Due Date", <i>Computers & Operations Research</i>, 36, pp. 60-72.
   <a href="https://doi.org/10.1016/j.cor.2007.07.005">[DOI: 10.1016/j.cor.2007.07.005]</a>
