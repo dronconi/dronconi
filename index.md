@@ -21,7 +21,9 @@ Combinatorial optimization and scheduling of manufacturing systems.
 
 <ul>
   
-<li>Damm R.B., Resende M.G.C. & Ronconi D.P., 2016, “A Biased Random Key Genetic Algorithm for the Field Technician Scheduling Problem”, <i>Computers & Operations Research</i>, 75, pp. 49-63. [Prob/Resul]</li>
+<li>Damm R.B., Resende M.G.C. & Ronconi D.P., 2016, “A Biased Random Key Genetic Algorithm for the Field Technician Scheduling Problem”, <i>Computers & Operations Research</i>, 75, pp. 49-63. 
+  <a href="https://doi.org">[DOI: 10.1016/j.cor.2016.05.003]</a>
+  <a href="">[Additional material]</a></li>
 
 <li>Morales S.G. & Ronconi D.P., 2016, “Mathematical models and resolution strategies for the classical job shop problem”, <i>Production</i>, 26, pp. 614-625.</li>
 
