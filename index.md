@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="teste.jpg"</img></td>
+    <td><img src="photo.jpg"</img></td>
     <td>D&eacute;bora P. Ronconi<br> 
         Full Professor<br> 
         Department of Production Engineering<br>
