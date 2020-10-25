@@ -8,10 +8,10 @@
         Department of Production Engineering<br>
         Polytechnic School, University of São Paulo<br><br>
         <ul>
-        <li><a href="https://orcid.org/0000-0001-7647-2328">ORCID ID</a></li>
-        <li><a href="https://scholar.google.com.br/citations?user=PYRW_-4AAAAJ&hl=en">Google Scholar Citation Profile</a></li>
         <li><a href="https://publons.com/researcher/2330687/debora-p-ronconi/">ReseracherID</a></li>
+        <li><a href="https://orcid.org/0000-0001-7647-2328">ORCID ID</a></li>
         <li><a href="https://www.scopus.com/authid/detail.uri?authorId=6507620724">ScopusID</a></li>
+        <li><a href="https://scholar.google.com.br/citations?user=PYRW_-4AAAAJ&hl=en">Google Scholar Citation Profile</a></li>
         <li><a href="http://lattes.cnpq.br/8061079976642641">CV Lattes (in portuguesse)</li>
         </ul>
     </td> 
@@ -99,7 +99,7 @@ Combinatorial optimization and scheduling of manufacturing systems.
 <li>Ronconi D.P. & Powell W.B., 2010, "Minimizing Total Tardiness in a Stochastic Single Machine Scheduling Problem using Approximate Dynamic Programming", <i>Journal of Scheduling</i>, 13, pp. 597-607.
   <a href="https://doi.org/10.1007/s10951-009-0160-6">[DOI: 10.1007/s10951-009-0160-6]</a>
   <a href="https://rdcu.be/b89qA">[Free access provided by SharedIt]</a>
-  <a href="AdditionalMaterial/arrival.txt">[Additional material]</a></li>
+  <a href="AdditionalMaterial/ropo2010/">[Additional material]</a></li>
   
 <li>Mainieri, G. & Ronconi D.P., 2010, “Regras de Despacho para a Minimização do Atraso Total no Ambiente Flowshop Flexível”, <i>Gestão & Produção</i>, 17, pp. 683-692.
 <a href="https://doi.org/10.1590/S0104-530X2010000400004">[DOI: 10.1590/S0104-530X2010000400004]</a></li>
