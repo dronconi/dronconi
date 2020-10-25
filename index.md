@@ -53,10 +53,14 @@ Combinatorial optimization and scheduling of manufacturing systems.
   <a href="">[Additional material]</a></li>
 
 <li>Ronconi D.P. & Birgin E.G., 2012, "Mixed-Integer Programming Models for Flowshop Scheduling Problems Minimizing the Total Earliness and Tardiness", in <i>Just-in-Time Systems</i>, Y.A. Ríos-Solís and R.Z. Ríos-Mercado (Eds.), Springer Series on Optimization and Its Applications, P.M. Pardalos and Ding-Zhu Du (Series eds.).
+<a href="https://doi.org/10.1007/978-1-4614-1123-9_5">[DOI: 10.1007/978-1-4614-1123-9_5]</a>
   <a href="">[Additional material]</a></li>
 
 <li>Birgin E.G. & Ronconi D.P., 2012, "Heuristic Methods for the Single Machine Scheduling Problem with Different Ready Times and a Common Due Date", <i>Engineering Optimization</i>, 44, pp. 1197-1208.
+  <a href="https://doi.org/10.1080/0305215X.2011.634409">[DOI: 10.1080/0305215X.2011.634409]</a>
   <a href="">[Additional material]</a></li>
+  
+<li>Birgin E.G. & Ronconi D.P., 2012, "Heuristic Methods for the Single Machine Scheduling Problem with Different Ready Times and a Common Due Date", <i>Engineering Optimization</i>, 44, pp. 1197-1208.
 
 <li>Santoro, M.C. & Ronconi D.P., 2011, “Modeling the Transportation and Warehousing of Potassium Chloride in the Fertilizer Industry”, <i>International Journal of Logistics Systems and Management</i>, 8, pp. 298-312.</li>
 
