@@ -42,25 +42,33 @@ Combinatorial optimization and scheduling of manufacturing systems.
 
 <li>Andrade R., Birgin E.G., Morábito R. & Ronconi D.P., 2014, “ MIP models for two-dimensional non-guillotine cutting problems with usable leftovers ”, <i>Journal of the Operational Research Society</i>, 65, pp. 1649-1663.</li>
 
-<li>Birgin E.G., Feofiloff P., Fernandes C.G., Melo E.L., Oshiro M.T.I. & Ronconi D.P., 2014, “ A MILP model for an extended version of the Flexible Job Shop Problem ”, <i>Optimization Letters</i>, 8, pp. 1417-1431. [Data]</li>
+<li>Birgin E.G., Feofiloff P., Fernandes C.G., Melo E.L., Oshiro M.T.I. & Ronconi D.P., 2014, “ A MILP model for an extended version of the Flexible Job Shop Problem ”, <i>Optimization Letters</i>, 8, pp. 1417-1431.
+  <a href="">[Additional material]</a></li>
 
-<li>Mainieri, G. & Ronconi D.P., 2013,“ New Heuristics for Total Tardiness Minimization in a Flexible Flowshop ”, <i>Optimization Letters</i>, 7, pp. 665-684. [Prob/Resul]</li>
+<li>Mainieri, G. & Ronconi D.P., 2013,“ New Heuristics for Total Tardiness Minimization in a Flexible Flowshop ”, <i>Optimization Letters</i>, 7, pp. 665-684.
+  <a href="">[Additional material]</a></li>
 
-<li>Ronconi D.P. & Birgin E.G., 2012, "Mixed-Integer Programming Models for Flowshop Scheduling Problems Minimizing the Total Earliness and Tardiness", in <i>Just-in-Time Systems</i>, Y.A. Ríos-Solís and R.Z. Ríos-Mercado (Eds.), Springer Series on Optimization and Its Applications, P.M. Pardalos and Ding-Zhu Du (Series eds.). [Data]</li>
+<li>Ronconi D.P. & Birgin E.G., 2012, "Mixed-Integer Programming Models for Flowshop Scheduling Problems Minimizing the Total Earliness and Tardiness", in <i>Just-in-Time Systems</i>, Y.A. Ríos-Solís and R.Z. Ríos-Mercado (Eds.), Springer Series on Optimization and Its Applications, P.M. Pardalos and Ding-Zhu Du (Series eds.).
+  <a href="">[Additional material]</a></li>
 
-<li>Birgin E.G. & Ronconi D.P., 2012, "Heuristic Methods for the Single Machine Scheduling Problem with Different Ready Times and a Common Due Date", <i>Engineering Optimization</i>, 44, pp. 1197-1208. [Data]</li>
+<li>Birgin E.G. & Ronconi D.P., 2012, "Heuristic Methods for the Single Machine Scheduling Problem with Different Ready Times and a Common Due Date", <i>Engineering Optimization</i>, 44, pp. 1197-1208.
+  <a href="">[Additional material]</a></li>
 
-<li>Santoro, M.C. & Ronconi D.P., 2011, “Modeling the Transportation and Warehousing of Potassium Chloride in the Fertilizer Industry”, <i>International Journal of Logistics Systems and Management</i>, 8, pp. 298-312.  </li>
+<li>Santoro, M.C. & Ronconi D.P., 2011, “Modeling the Transportation and Warehousing of Potassium Chloride in the Fertilizer Industry”, <i>International Journal of Logistics Systems and Management</i>, 8, pp. 298-312.</li>
 
-<li>Ronconi D.P. & Powell W.B., 2010, "Minimizing Total Tardiness in a Stochastic Single Machine Scheduling Problem using Approximate Dynamic Programming", <i>Journal of Scheduling</i>, 13, pp. 597-607. [Data]</li>
-
+<li>Ronconi D.P. & Powell W.B., 2010, "Minimizing Total Tardiness in a Stochastic Single Machine Scheduling Problem using Approximate Dynamic Programming", <i>Journal of Scheduling</i>, 13, pp. 597-607.
+  <a href="">[Additional material]</a></li>
+  
 <li>Mainieri, G. & Ronconi D.P., 2010, “Regras de Despacho para a Minimização do Atraso Total no Ambiente Flowshop Flexível ”, <i>Gestão & Produção</i>, 17, pp. 683-692.</li>
 
-<li>Ronconi D.P. & Kawamura M.S., 2010, "The Single Machine Earliness and Tardiness Scheduling Problem: Lower Bounds and a Branch-and-Bound Algorithm", <i>Computational & Applied Mathematics</i>, 29, pp. 107-124. [Prob/Resul]</li>
+<li>Ronconi D.P. & Kawamura M.S., 2010, "The Single Machine Earliness and Tardiness Scheduling Problem: Lower Bounds and a Branch-and-Bound Algorithm", <i>Computational & Applied Mathematics</i>, 29, pp. 107-124.
+  <a href="">[Additional material]</a></li>
 
-<li>Ronconi D.P. & Henriques L.S., 2009, “Some Heuristic Algorithms for Total Tardiness Minimization in a Flowshop with Blocking”, <i>Omega</i>, 37, pp. 272-281. [Prob/Resul]</li>   
+<li>Ronconi D.P. & Henriques L.S., 2009, “Some Heuristic Algorithms for Total Tardiness Minimization in a Flowshop with Blocking”, <i>Omega</i>, 37, pp. 272-281.
+  <a href="">[Additional material]</a></li>
 
-<li>Sakuraba C.S., Ronconi D.P. & Sourd F., 2009, "Scheduling in a Two-Machine Flowshop for the Minimization of the Mean Absolute Deviation from a Common Due Date", <i>Computers & Operations Research</i>, 36, pp. 60-72. [Prob/Resul]</li>
+<li>Sakuraba C.S., Ronconi D.P. & Sourd F., 2009, "Scheduling in a Two-Machine Flowshop for the Minimization of the Mean Absolute Deviation from a Common Due Date", <i>Computers & Operations Research</i>, 36, pp. 60-72.
+  <a href="">[Additional material]</a></li>
 
 <li>Birgin, E.G., Martínez, J.M., Nishihara F.H. & Ronconi, D.P., 2006, "Orthogonal Packing of Rectangular Items within Arbitrary Convex Regions by Nonlinear Optimization", <i>Computers & Operations Research</i>, 33, pp. 3535-3548.</li>
 
@@ -84,9 +92,11 @@ Combinatorial optimization and scheduling of manufacturing systems.
 
 <li>Ronconi, D.P. & Armentano, V.A., 2001, "Lower Bounding Schemes for Flowshops with Blocking In-Process", <i>Journal of the Operational Research Society</i>, 52 (11), pp. 1289-1297.</li>
 
-<li>Armentano, V.A. & Ronconi, D.P., 2000, "Minimização do Tempo Total de Atraso no Problema de Flowshop com Buffer Zero Utilizando Busca Tabu", <i>Gestão & Produção</i>,7 (3), pp. 353-363.</li>
+<li>Armentano, V.A. & Ronconi, D.P., 2000, "Minimização do Tempo Total de Atraso no Problema de Flowshop com Buffer Zero Utilizando Busca Tabu", <i>Gestão & Produção</i>,7 (3), pp. 353-363.
+<a href="https://doi.org/10.1590/S0104-530X2000000300011">[DOI: 10.1590/S0104-530X2000000300011]</a> </li>
 
-<li>Armentano, V.A. & Ronconi, D.P., 1999, "Tabu Search for Total Tardiness Minimization in Flowshop Scheduling Problems", <i>Computers & Operations Research</i>, 26 (3), pp. 219-235.</li>
+<li>Armentano, V.A. & Ronconi, D.P., 1999, "Tabu Search for Total Tardiness Minimization in Flowshop Scheduling Problems", <i>Computers & Operations Research</i>, 26 (3), pp. 219-235.
+<a href="https://doi.org/10.1016/S0305-0548(98)00060-4">[DOI: 10.1016/S0305-0548(98)00060-4]</a></li>
 
 <li>Ronconi, D.P. & Armentano, V.A., 1995 (published in 1997), "Busca Tabu para a Minimização do Tempo Total de Atraso no Problema de Flowshop", <i>Pesquisa Operacional</i>, 15, pp. 23-34.</li>
 
