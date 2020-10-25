@@ -21,6 +21,15 @@ Combinatorial optimization and scheduling of manufacturing systems.
 
 <ul>
   
+<li>Lunardi W.T., Birgin E.G., Laborie P., Ronconi D.P. & Voos, H., 2020, "A Mixed Integer linear programming and constraint programming models for the online printing shop scheduling problem", <i>Computers & Operations Research</i>, 123, article number 105020.
+<a href="https://doi.org/10.1016/j.cor.2020.105020">[DOI: 10.1016/j.cor.2020.105020]</a></li>
+
+<li>Birgin E.G., Ferreira J.E. & Ronconi D.P., 2020, "A filtered beam search method for the m-machine permutation flowshop scheduling problem minimizing the earliness and tardiness penalties and the waiting time of the jobs", <i>Computers & Operations Research</i>, 114, article number 104824.
+<a href="https://doi.org/10.1016/j.cor.2019.104824">[DOI: 10.1016/j.cor.2019.104824]</a></li>
+
+<li>Birgin E.G., Romao O.C. & Ronconi D.P., 2020. "The multiperiod two-dimensional non-guillotine cutting stock problem with usable leftovers", <i>International Transactions in Operational Research</i>, 27, pp. 1392-1418.
+<a href="https://doi.org/10.1111/itor.12648">[DOI: 10.1111/itor.12648]</a></li>
+
 <li>Damm R.B., Resende M.G.C. & Ronconi D.P., 2016, “A Biased Random Key Genetic Algorithm for the Field Technician Scheduling Problem”, <i>Computers & Operations Research</i>, 75, pp. 49-63. 
   <a href="https://doi.org/10.1016/j.cor.2016.05.003">[DOI: 10.1016/j.cor.2016.05.003]</a>
   <a href="">[Additional material]</a></li>
