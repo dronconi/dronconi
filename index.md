@@ -114,7 +114,7 @@ Combinatorial optimization and scheduling of manufacturing systems.
 
 <li>Sakuraba C.S., Ronconi D.P. & Sourd F., 2009, "Scheduling in a Two-Machine Flowshop for the Minimization of the Mean Absolute Deviation from a Common Due Date", <i>Computers & Operations Research</i>, 36, pp. 60-72.
   <a href="https://doi.org/10.1016/j.cor.2007.07.005">[DOI: 10.1016/j.cor.2007.07.005]</a>
-  <a href="">[Additional material]</a></li>
+  <a href="AdditionalMaterial/saroso2009/">[Additional material]</a></li>
 
 <li>Birgin, E.G., Martínez, J.M., Nishihara F.H. & Ronconi, D.P., 2006, "Orthogonal Packing of Rectangular Items within Arbitrary Convex Regions by Nonlinear Optimization", <i>Computers & Operations Research</i>, 33, pp. 3535-3548.
 <a href="https://doi.org/10.1016/j.cor.2005.03.031">[DOI: 10.1016/j.cor.2005.03.031]</a></li>
