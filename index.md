@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><img src="photo.jpg"</img></td>
-    <td>D&eacute;bora P. Ronconi<br> 
+    <td>Débora P. Ronconi<br> 
         Full Professor<br> 
         Department of Production Engineering<br>
         Polytechnic School, University of São Paulo<br>
@@ -31,7 +31,7 @@ Combinatorial optimization and scheduling of manufacturing systems.
 
 <li>Melo E. & Ronconi D.P., 2015, “Regras de prioridade eficientes que exploram características do job shop flexível para a minimização do atraso total”, <i>Revista Produção</i>, 25, pp. 79-91.</li>
 
-<li>Sakuraba C.S., Ronconi D.P., Birgin E.G. & Yagiura M., 2015, “Metaheuristics for large-scale instances of the linear ordering problem ”, <i>Expert Systems with Applications</i>, 42, pp. 4432-4442.</li>
+<li>Sakuraba C.S., Ronconi D.P., Birgin E.G. & Yagiura M., 2015, “Metaheuristics for large-scale instances of the linear ordering problem”, <i>Expert Systems with Applications</i>, 42, pp. 4432-4442.</li>
 
 <li>Andrade R., Birgin E.G., Morábito R. & Ronconi D.P., 2014, “ MIP models for two-dimensional non-guillotine cutting problems with usable leftovers ”, <i>Journal of the Operational Research Society</i>, 65, pp. 1649-1663.</li>
 
