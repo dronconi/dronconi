@@ -4,7 +4,7 @@
 
 <h1>Débora P. Ronconi</h1>
 
-<table style="width:10cm">
+<table>
   <tr>
     <td><img src="photo.jpg"</img></td>
     <td>Débora P. Ronconi<br> 
