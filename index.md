@@ -38,14 +38,18 @@ Combinatorial optimization and scheduling of manufacturing systems.
 <li>Melo E. & Ronconi D.P., 2015, “Regras de prioridade eficientes que exploram características do job shop flexível para a minimização do atraso total”, <i>Revista Produção</i>, 25, pp. 79-91.
 <a href="http://dx.doi.org/10.1590/S0103-65132014005000016">[DOI: 10.1590/S0103-65132014005000016]</a></li>
 
-<li>Sakuraba C.S., Ronconi D.P., Birgin E.G. & Yagiura M., 2015, “Metaheuristics for large-scale instances of the linear ordering problem”, <i>Expert Systems with Applications</i>, 42, pp. 4432-4442.</li>
+<li>Sakuraba C.S., Ronconi D.P., Birgin E.G. & Yagiura M., 2015, “Metaheuristics for large-scale instances of the linear ordering problem”, <i>Expert Systems with Applications</i>, 42, pp. 4432-4442.
+<a href="https://doi.org/10.1016/j.eswa.2015.01.053">[DOI: 10.1016/j.eswa.2015.01.053]</a></li>
 
-<li>Andrade R., Birgin E.G., Morábito R. & Ronconi D.P., 2014, “ MIP models for two-dimensional non-guillotine cutting problems with usable leftovers ”, <i>Journal of the Operational Research Society</i>, 65, pp. 1649-1663.</li>
+<li>Andrade R., Birgin E.G., Morábito R. & Ronconi D.P., 2014, “MIP models for two-dimensional non-guillotine cutting problems with usable leftovers”, <i>Journal of the Operational Research Society</i>, 65, pp. 1649-1663.
+<a href="https://doi.org/10.1057/jors.2013.108">[DOI: 10.1057/jors.2013.108]</a></li>
 
-<li>Birgin E.G., Feofiloff P., Fernandes C.G., Melo E.L., Oshiro M.T.I. & Ronconi D.P., 2014, “ A MILP model for an extended version of the Flexible Job Shop Problem ”, <i>Optimization Letters</i>, 8, pp. 1417-1431.
+<li>Birgin E.G., Feofiloff P., Fernandes C.G., Melo E.L., Oshiro M.T.I. & Ronconi D.P., 2014, “A MILP model for an extended version of the Flexible Job Shop Problem”, <i>Optimization Letters</i>, 8, pp. 1417-1431.
+<a href="https://doi.org/10.1007/s11590-013-0669-7">[DOI: 10.1007/s11590-013-0669-7]</a>
   <a href="">[Additional material]</a></li>
 
-<li>Mainieri, G. & Ronconi D.P., 2013,“ New Heuristics for Total Tardiness Minimization in a Flexible Flowshop ”, <i>Optimization Letters</i>, 7, pp. 665-684.
+<li>Mainieri, G. & Ronconi D.P., 2013, “New Heuristics for Total Tardiness Minimization in a Flexible Flowshop”, <i>Optimization Letters</i>, 7, pp. 665-684.
+<a href="https://doi.org/10.1007/s11590-012-0448-x">[DOI: 10.1007/s11590-012-0448-x]</a>
   <a href="">[Additional material]</a></li>
 
 <li>Ronconi D.P. & Birgin E.G., 2012, "Mixed-Integer Programming Models for Flowshop Scheduling Problems Minimizing the Total Earliness and Tardiness", in <i>Just-in-Time Systems</i>, Y.A. Ríos-Solís and R.Z. Ríos-Mercado (Eds.), Springer Series on Optimization and Its Applications, P.M. Pardalos and Ding-Zhu Du (Series eds.).
