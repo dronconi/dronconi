@@ -16,7 +16,7 @@
         <li><a href="https://orcid.org/0000-0001-7647-2328">ORCID ID</a></li>
         <li><a href="https://www.scopus.com/authid/detail.uri?authorId=6507620724">Scopus ID</a></li>
         <li><a href="https://scholar.google.com.br/citations?user=PYRW_-4AAAAJ&hl=en">Google Scholar Citation Profile</a></li>
-        <li><a href="http://lattes.cnpq.br/8061079976642641">CV Lattes (in portuguesse)</li>
+        <li><a href="http://lattes.cnpq.br/8061079976642641">CV Lattes (in portuguesse)</a></li>
         </ul>
     </td> 
   </tr>
