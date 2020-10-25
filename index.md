@@ -27,6 +27,10 @@ Combinatorial optimization and scheduling of manufacturing systems.
 ### Refereed publications 
 
 <ul>
+
+<li>Manguino J.L.V & Ronconi D.P., "Step cost functions in a fleet size and mix vehicle routing problem with time windows", <i>submitted</i>.</li>
+
+<li>Lunardi W.T., Birgin E.G., Ronconi D.P. & Voos, H., "Metaheuristics for the Online Printing Shop Scheduling Problem", <i>submitted</i>.</li> 
   
 <li>Lunardi W.T., Birgin E.G., Laborie P., Ronconi D.P. & Voos, H., 2020, "A Mixed Integer linear programming and constraint programming models for the online printing shop scheduling problem", <i>Computers & Operations Research</i>, 123, article number 105020.
 <a href="https://doi.org/10.1016/j.cor.2020.105020">[DOI: 10.1016/j.cor.2020.105020]</a></li>
