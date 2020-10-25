@@ -7,11 +7,11 @@
         Full Professor<br> 
         Department of Production Engineering<br>
         Polytechnic School, University of São Paulo<br><br>
-        <a href="https://orcid.org/0000-0001-7647-2328"><img src="ORCID_icon.png"</img></a><br>
+        <a href="https://orcid.org/0000-0001-7647-2328">ORCID ID</a><br>
         <a href="https://scholar.google.com.br/citations?user=PYRW_-4AAAAJ&hl=en">Google Scholar Citation Profile</a><br>
         <a href="https://publons.com/researcher/2330687/debora-p-ronconi/">ReseracherID</a><br>
         <a href="https://www.scopus.com/authid/detail.uri?authorId=6507620724">ScopusID</a><br>
-        <a href="http://lattes.cnpq.br/8061079976642641"><img src="fav_ico_lattes.ico.png"</img></a>
+        <a href="http://lattes.cnpq.br/8061079976642641">CV Lattes (in portuguesse)</a>
     </td> 
   </tr>
  </table>
