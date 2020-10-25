@@ -59,6 +59,7 @@ Combinatorial optimization and scheduling of manufacturing systems.
 
 <li>Mainieri, G. & Ronconi D.P., 2013, “New Heuristics for Total Tardiness Minimization in a Flexible Flowshop”, <i>Optimization Letters</i>, 7, pp. 665-684.
 <a href="https://doi.org/10.1007/s11590-012-0448-x">[DOI: 10.1007/s11590-012-0448-x]</a>
+  <a href="https://rdcu.be/b89qD">[Free access provided by SharedIt]</a>
   <a href="">[Additional material]</a></li>
 
 <li>Ronconi D.P. & Birgin E.G., 2012, "Mixed-Integer Programming Models for Flowshop Scheduling Problems Minimizing the Total Earliness and Tardiness", in <i>Just-in-Time Systems</i>, Y.A. Ríos-Solís and R.Z. Ríos-Mercado (Eds.), Springer Series on Optimization and Its Applications, P.M. Pardalos and Ding-Zhu Du (Series eds.).
@@ -77,6 +78,7 @@ Combinatorial optimization and scheduling of manufacturing systems.
 
 <li>Ronconi D.P. & Powell W.B., 2010, "Minimizing Total Tardiness in a Stochastic Single Machine Scheduling Problem using Approximate Dynamic Programming", <i>Journal of Scheduling</i>, 13, pp. 597-607.
   <a href="https://doi.org/10.1007/s10951-009-0160-6">[DOI: 10.1007/s10951-009-0160-6]</a>
+  <a href="https://rdcu.be/b89qA">[Free access provided by SharedIt]</a>
   <a href="">[Additional material]</a></li>
   
 <li>Mainieri, G. & Ronconi D.P., 2010, “Regras de Despacho para a Minimização do Atraso Total no Ambiente Flowshop Flexível”, <i>Gestão & Produção</i>, 17, pp. 683-692.
@@ -104,7 +106,8 @@ Combinatorial optimization and scheduling of manufacturing systems.
 <a href="https://doi.org/10.1057/palgrave.jors.2602067">[DOI: 10.1057/palgrave.jors.2602067]</a></li>
 
 <li>Ronconi, D.P., 2005, "A Branch-and-Bound Algorithm to Minimize the Makespan in a Flowshop with Blocking", 2005, <i>Annals of Operations Research</i>, 138(1), pp. 53-65.
-<a href="https://doi.org/10.1007/s10479-005-2444-3">[DOI: 10.1007/s10479-005-2444-3]</a></li>
+<a href="https://doi.org/10.1007/s10479-005-2444-3">[DOI: 10.1007/s10479-005-2444-3]</a>
+<a href="https://rdcu.be/b89qu">[Free access provided by SharedIt]</a></li>
 
 <li>Hino, C.M., Ronconi, D.P. & Mendes, A.B., 2005, "Minimizing Earliness and Tardiness Penalties in a Single-Machine Problem with a Common Due Date", <i>European Journal of Operational Research</i>, 160, pp. 190-201.
 <a href="https://doi.org/10.1016/j.ejor.2004.03.006">[DOI: 10.1016/j.ejor.2004.03.006]</a></li>
