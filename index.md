@@ -1,4 +1,6 @@
-## Débora P. Ronconi web page
+<!DOCTYPE html>
+<html>
+<body>
 
 <table style="width:10cm">
   <tr>
@@ -18,13 +20,13 @@
   </tr>
  </table>
 
-Prof. Ronconi holds Electrical Engineering degree (Faculty of Electrical Engineering, Federal University of Espírito Santo, Vitória - ES, Brazil, 1990). She is a M.Sc. and Ph.D. in Operational Research from the Department of System Engineering, Electrical and Computer Engineering School, State University of Campinas - UNICAMP (Brazil, 1993 and 1997). Post-Doctorate at Department of Operations Research & Financial Engineering, Princeton University (2006). Currently, she is a full professor at the Department of Production Engineering, Politecnical School, University of São Paulo (USP), Brazil. Her research interests include combinatorial optimization and scheduling of manufacturing systems. 
+<p>Prof. Ronconi holds Electrical Engineering degree (Faculty of Electrical Engineering, Federal University of Espírito Santo, Vitória - ES, Brazil, 1990). She is a M.Sc. and Ph.D. in Operational Research from the Department of System Engineering, Electrical and Computer Engineering School, State University of Campinas - UNICAMP (Brazil, 1993 and 1997). Post-Doctorate at Department of Operations Research & Financial Engineering, Princeton University (2006). Currently, she is a full professor at the Department of Production Engineering, Politecnical School, University of São Paulo (USP), Brazil. Her research interests include combinatorial optimization and scheduling of manufacturing systems.</p>
 
-### Main interests
+<h1>Main interests</h1>
 
-Combinatorial optimization and scheduling of manufacturing systems.
+<p>Combinatorial optimization and scheduling of manufacturing systems.</p>
 
-### Refereed publications 
+<h1>Refereed publications</h1>
 
 <ul>
 
@@ -161,10 +163,15 @@ Combinatorial optimization and scheduling of manufacturing systems.
 
 </ul>
 
-### Contact
+<h1>Contact</h1>
 
+<p>
 Department of Production Engineering<br>
 Polytechnic School, University of São Paulo<br>
 Av. Prof. Almeida Prado, 128<br> 
 Cidade Universitária<br> 
 05508-900, São Paulo, SP - Brasil
+</p>
+
+</body>
+</html>
