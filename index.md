@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -6,7 +5,7 @@
 
 <table>
   <tr>
-    <td><img src="photo.jpg"</img></td>
+    <td><img src="/photo.jpg"</img></td>
     <td>Débora P. Ronconi<br> 
         Full Professor<br> 
         Department of Production Engineering<br>
