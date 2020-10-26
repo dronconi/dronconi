@@ -11,6 +11,6 @@ h1 {font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif}
 
 li:not(:last-child) {padding-bottom: 10px}
 
-.greyscale {filter: greyscale(100%);}
+.grayscale {filter: grayscale(100%);}
 
 img {border-radius: 10%;}
