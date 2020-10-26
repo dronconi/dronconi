@@ -13,4 +13,9 @@ li:not(:last-child) {padding-bottom: 10px}
 
 .grayscale {filter: grayscale(100%);}
 
-img {border-radius: 10%;}
+img {  
+  padding-top:    10px;
+  padding-right:  10px;
+  padding-bottom: 10px;
+  padding-left:   10px;
+  border-radius: 10% }
