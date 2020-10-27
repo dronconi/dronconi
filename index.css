@@ -7,6 +7,6 @@ body {
   color: black;
   background-color: #F0F8FF }
 
-h1 {font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif}
+h2 {font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif}
 
 li:not(:last-child) {padding-bottom: 10px}
