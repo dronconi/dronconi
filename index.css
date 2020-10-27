@@ -10,7 +10,3 @@ body {
 h1 {font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif}
 
 li:not(:last-child) {padding-bottom: 10px}
-
-.myphoto img {
-  filter: grayscale(100%); 
-  border-radius: 10%; }
